@@ -1,0 +1,36 @@
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\bin\Debug\netstandard2.0\ProyectoFinal707.deps.json
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\bin\Debug\netstandard2.0\ProyectoFinal707.dll
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\bin\Debug\netstandard2.0\ProyectoFinal707.pdb
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.csproj.AssemblyReference.cache
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\Vistas\Registro\Empezar.xaml.g.cs
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.AssemblyInfoInputs.cache
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.AssemblyInfo.cs
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.csproj.CoreCompileInputs.cache
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.dll
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\refint\ProyectoFinal707.dll
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.pdb
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ref\ProyectoFinal707.dll
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\Vistas\MenuPrincipal\MenuPrincipal.xaml.g.cs
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\Vistas\MenuPrincipal\MenuMantenimiento.xaml.g.cs
+E:\Proyectos Xamarin\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\Vistas\Registro\Recolectores.xaml.g.cs
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\bin\Debug\netstandard2.0\ProyectoFinal707.deps.json
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\bin\Debug\netstandard2.0\ProyectoFinal707.dll
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\bin\Debug\netstandard2.0\ProyectoFinal707.pdb
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.csproj.AssemblyReference.cache
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\Vistas\MenuPrincipal\MenuMantenimiento.xaml.g.cs
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\Vistas\MenuPrincipal\MenuPrincipal.xaml.g.cs
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\Vistas\Registro\Empezar.xaml.g.cs
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\Vistas\Registro\Recolectores.xaml.g.cs
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.AssemblyInfoInputs.cache
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.AssemblyInfo.cs
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.csproj.CoreCompileInputs.cache
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.dll
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ref\ProyectoFinal707.dll
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\ProyectoFinal707.pdb
+C:\Users\jhoan\Downloads\ProyectoFinal707\ProyectoFinal707\ProyectoFinal707\obj\Debug\netstandard2.0\refint\ProyectoFinal707.dll

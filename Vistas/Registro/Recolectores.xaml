@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinal707.Vistas.Registro.Recolectores"
+             NavigationPage.HasNavigationBar="False">
+
+    <Grid RowDefinitions="70,*">
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0,1">
+                <GradientStop Color="#11ffbd" Offset="0.1"/>
+                <GradientStop Color="#D6F4E7" Offset="1.0"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Label Text="REGISTRO DE RECOLECTORES"
+                               FontSize="19"
+                               FontAttributes="Bold"
+                               VerticalOptions="Center"
+                   HorizontalOptions="Center"
+                               TextColor="DarkOrange"
+                   HeightRequest="30"
+                   />
+        <ImageButton Source="flecha.png"
+                          HeightRequest="30"
+                     BackgroundColor="red"
+                     HorizontalOptions="Start"
+                     Margin="10,40,10,10"
+                         Command="{Binding Volvercomamd}"/>
+        <Frame Grid.Row="1" Padding="0"
+                   Margin="10" CornerRadius="15"
+                   BackgroundColor="#5B55E1">
+            <StackLayout Margin="10">
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="user.png"
+                               HeightRequest="30"/>
+                    <Label Text="Nombres:"
+                               FontSize="14"
+                               FontAttributes="Bold"
+                               VerticalOptions="Center"
+                               TextColor="White"/>
+                    <Entry FontSize="14"
+                               Placeholder="Ingrese el nombre"
+                               HorizontalOptions="FillAndExpand"
+                               TextColor="White"
+                               Text="{Binding Txtnombre}"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="identification.png"
+                               HeightRequest="30"/>
+                    <Label Text="Identificación:"
+                               FontSize="14"
+                               FontAttributes="Bold"
+                               VerticalOptions="Center"
+                               TextColor="White"/>
+                    <Entry FontSize="14"
+                               Placeholder="Ingrese la identificación"
+                               HorizontalOptions="FillAndExpand"
+                               TextColor="White"
+                               Text="{Binding Txtidentificacion}"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="email.png"
+                               HeightRequest="30"/>
+                    <Label Text="Correo:"
+                               FontSize="14"
+                               FontAttributes="Bold"
+                               VerticalOptions="Center"
+                               TextColor="White"/>
+                    <Entry FontSize="14"
+                               Placeholder="Ingrese correo"
+                               HorizontalOptions="FillAndExpand"
+                               TextColor="White"
+                               Text="{Binding Txtcorreo}"/>
+                </StackLayout>
+                <StackLayout Orientation="Horizontal">
+                    <Image Source="password.png"
+                               HeightRequest="30"/>
+                    <Label Text="Contraseña:"
+                               FontSize="14"
+                               FontAttributes="Bold"
+                               VerticalOptions="Center"
+                               TextColor="White"/>
+                    <Entry FontSize="14"
+                               Placeholder="Ingrese contraseña"
+                               HorizontalOptions="FillAndExpand"
+                               TextColor="White"
+                               IsPassword="True"
+                               Text="{Binding Txtcontraseña}"/>
+                </StackLayout>
+                <Button Text="Guardar"
+                            HorizontalOptions="Center"
+                            CornerRadius="15"
+                            BackgroundColor="White"
+                            FontAttributes="Bold"
+                            VerticalOptions="EndAndExpand"
+                            Command="{Binding Insertarcomamd}"/>
+                <Image Source="camion.png"
+                          HeightRequest="70"
+                     BackgroundColor="Transparent"
+                     HorizontalOptions="Start"
+                     Margin="0,40,0,0" />
+
+                <!--  
+                <Label Grid.Row="2"
+               Text="Listado de Recolectores"
+                FontAttributes="Bold"
+                FontSize="18"
+               TextColor="DarkBlue"
+                Margin="16,0,0,0"
+               VerticalOptions="Center"/>
+
+
+                <Frame Grid.Row="3"
+               CornerRadius="20"
+               Margin="15,0,15,0"
+               HasShadow="False"
+               >
+                    <CollectionView ItemsSource="{Binding ListasolRecojo}"
+                            x:Name="Listasolicitudes">
+                        <CollectionView.ItemsLayout>
+                            <GridItemsLayout Orientation="Vertical"
+                                     Span="1"
+                                     VerticalItemSpacing="20"/>
+                        </CollectionView.ItemsLayout>
+                        <CollectionView.ItemTemplate>
+                            <DataTemplate>
+                                <Frame>
+                                    <StackLayout Orientation="Horizontal">
+                                        <Label Text="{Binding Idsolicitud}"
+                                       VerticalOptions="Center"/>
+                                        <Button Text="Asignar"
+                                        CornerRadius="15"
+                                        FontAttributes="Bold"
+                                        Command="{Binding Source={x:Reference Listasolicitudes}
+                                        ,Path=BindingContext.NavegarAsignacionescomamd}"
+                                        CommandParameter="{Binding .}"/>
+                                    </StackLayout>
+                                </Frame>
+                            </DataTemplate>
+                        </CollectionView.ItemTemplate>
+                    </CollectionView>
+
+                </Frame>
+-->
+
+            </StackLayout>
+
+
+        </Frame>
+
+    </Grid>
+</ContentPage>

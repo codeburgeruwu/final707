@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProyectoFinal707.Vistas.Registro.Empezar">
+    <Grid BackgroundColor="#276EF1">
+        <StackLayout>
+            <StackLayout VerticalOptions="CenterAndExpand"
+                         Spacing="60">
+                <Label Text="Recycle Egerman"
+                       TextColor="White"
+                       HorizontalOptions="Center"
+                       FontSize="40" />
+                <Image Source="camion.png"
+                       HeightRequest="150" 
+                       BackgroundColor="#276EF1"/>
+                <Label Text="Recogida con rápidez"
+                       TextColor="White"
+                       HorizontalOptions="Center"
+                       FontSize="35"
+                       HorizontalTextAlignment="Center" />
+            </StackLayout>
+            <Grid VerticalOptions="EndAndExpand"
+                  Margin="20">
+                <Button Text="Empezar"
+                        BackgroundColor="Black"
+                        TextColor="White"
+                        TextTransform="None"
+                        FontAttributes="Bold"
+                        CornerRadius="10"
+                        Command="{Binding Navegarmenuprincipalcommand}"/>
+                <Image Source="derecha.png"
+                       HeightRequest="30"
+                       HorizontalOptions="End"
+                       Margin="0,0,18,0" />
+            </Grid>
+        </StackLayout>
+    </Grid>
+</ContentPage>
